@@ -123,7 +123,10 @@ DELETE /address/{address_id}
 
 Find Nearby Addresses
 
-GET /addresses/nearby?lat=12.9716&lon=77.5946&distance_km=5
+GET /addresses/nearby
+lat=12.9716
+lon=77.5946
+distance_km=5
 
 Health Check
 
