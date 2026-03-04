@@ -24,6 +24,7 @@ A minimal FastAPI-based Address Book API that allows users to create, update, de
 - Uvicorn
 
 ## Project Structure
+```
 address-sphere
 │
 ├── app.py
@@ -45,7 +46,7 @@ address-sphere
 ├── requirements.txt
 ├── .env
 └── README.md
-
+```
 ## Installation
 
 Clone the repository
